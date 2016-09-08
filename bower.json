@@ -1,0 +1,17 @@
+{
+  "name": "web-starter-2016",
+  "version": "0.0.2",
+  "authors": [
+    "ERPedersen <ep@cesolutions.dk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
