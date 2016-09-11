@@ -62,7 +62,9 @@
             <li>Click on the "Connect" button to connect to the server. You should now be able to send messages to the
                 server.</li>
         </ol>
-        <br><br><br><br><br><br><br>
+        <br><br>
+        <h4>More information about the module and development process can be downloaded as a Word document <a style="color: #D9534F; text-decoration: underline" href="dist/downloads/moreinfo.docx">HERE</a></h4>
+        <br><br><br><br><br>
         <br><br><br><br><br><br><br>
     </div>
 </div>
